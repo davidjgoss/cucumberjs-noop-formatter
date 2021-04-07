@@ -1,0 +1,20 @@
+{
+  "name": "cucumberjs-noop-formatter",
+  "version": "1.0.0",
+  "description": "Noop formatter for cucumber-js; useful for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjgoss/cucumberjs-noop-formatter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidjgoss/cucumberjs-noop-formatter/issues"
+  },
+  "homepage": "https://github.com/davidjgoss/cucumberjs-noop-formatter#readme"
+}
