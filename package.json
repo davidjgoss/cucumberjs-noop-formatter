@@ -1,6 +1,6 @@
 {
   "name": "cucumberjs-noop-formatter",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Noop formatter for cucumber-js; useful for testing",
   "main": "index.js",
   "scripts": {
