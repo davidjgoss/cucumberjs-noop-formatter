@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/davidjgoss/cucumberjs-noop-formatter/issues"
   },
-  "homepage": "https://github.com/davidjgoss/cucumberjs-noop-formatter#readme"
+  "homepage": "https://github.com/davidjgoss/cucumberjs-noop-formatter#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.1.0"
+  },
+  "peerDependencies": {
+    "@cucumber/cucumber": "*"
+  }
 }
